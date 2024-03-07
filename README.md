@@ -2,7 +2,7 @@
 - 👀 I’m interested in Objected Oriented Analysis and Design, Coding in Java
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on open source projects in Java
-- 📫 How to reach me email at balajirengan@gmail.com
+- 📫 You can reach me at balajirengan@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: Loves Singing and Sleeping
 
